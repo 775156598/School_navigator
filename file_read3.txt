@@ -1,0 +1,19 @@
+1 playground
+2 stadium
+3 court
+4 TeachingBuliding
+5 library
+6 InfoCenter
+7 ComplexBuliding
+8 ExecutiveBuliding
+9 StuDormDEFH
+10 StuDormC
+11 CommerceStreet
+12 Canteen
+13 StuDormAB
+14 StuDormG
+15 TeacherDepartment
+16 RestHouse
+17 ParkingLot
+18 StuActivityCenter
+0

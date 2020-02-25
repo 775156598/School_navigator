@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../build-School_navigator-Desktop_Qt_5_10_1_MinGW_32bit-Debug/campus.png</file>
+        <file>../build-School_navigator-Desktop_Qt_5_10_1_MinGW_32bit-Debug/1545492096(1).png</file>
+        <file>../build-School_navigator-Desktop_Qt_5_10_1_MinGW_32bit-Debug/1545494238(1).jpg</file>
+        <file>InfoCenter.jpg</file>
+    </qresource>
+</RCC>
